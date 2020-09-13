@@ -1,0 +1,58 @@
+body {
+    margin: 0 auto;
+}
+
+#log {
+	width: 90%;
+	margin: 0 auto;
+	margin-top:20px;
+height:5%;
+}
+.mdl-card__title{
+	margin: 0 auto;
+}
+
+.form{
+    width:50%;
+    margin: 0 auto;
+	margin-top:30px;
+	padding: 50px;
+	border-radius: 40px;
+	background-color: #FAFAFA;
+}
+
+.login_div{
+	padding:35px 0 0 0;
+ text-align: center;
+     margin: 0 auto;
+}
+
+.chat-header_div{
+	padding:10px 0 0 0;
+ text-align: center;
+     margin: 0 auto;
+}
+
+.chat-card{
+width:80%;
+	 margin: 0 auto;
+	margin-top:30px;
+	padding: 20px 50px 5px 50px;
+	border-radius: 40px;
+	background-color: #FAFAFA;
+}
+
+.chat-con{
+	width:50%;
+	 margin: 0 auto;
+	margin-top:30px;
+	padding: 50px;
+	border-radius: 40px;
+	background-color: #FAFAFA;
+}
+
+.mdl-textfield {
+
+    display: block;
+	margin: 0 auto;
+}
